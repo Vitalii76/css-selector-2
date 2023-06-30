@@ -2,7 +2,7 @@
     color: red;
     background-color: yellow;
 }
-.lesson-four-task-two .title:hover {
+.lesson-four-task-two .link:hover ~ .title {
     
     background-color:green;
 }
